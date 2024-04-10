@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "simplest_compression:block/compressed_granite"
+    }
+  }
+}

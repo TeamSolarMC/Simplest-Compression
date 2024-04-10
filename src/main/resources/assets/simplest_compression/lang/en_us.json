@@ -1,0 +1,20 @@
+{
+  "block.simplest_compression.compressed_cobblestone": "Compressed Cobblestone",
+  "block.simplest_compression.compressed_blackstone": "Compressed Blackstone",
+  "block.simplest_compression.compressed_cobbled_deepslate": "Compressed Cobbled Deepslate",
+  "block.simplest_compression.compressed_basalt": "Compressed Basalt",
+  "block.simplest_compression.compressed_calcite": "Compressed Calcite",
+  "block.simplest_compression.compressed_clay": "Compressed Clay",
+  "block.simplest_compression.compressed_diorite": "Compressed Diorite",
+  "block.simplest_compression.compressed_dirt": "Compressed Dirt",
+  "block.simplest_compression.compressed_dripstone_block": "Compressed Dripstone Block",
+  "block.simplest_compression.compressed_end_stone": "Compressed End Stone",
+  "block.simplest_compression.compressed_granite": "Compressed Granite",
+  "block.simplest_compression.compressed_gravel": "Compressed Gravel",
+  "block.simplest_compression.compressed_netherrack": "Compressed Netherrack",
+  "block.simplest_compression.compressed_sand": "Compressed Sand",
+  "block.simplest_compression.compressed_tuff": "Compressed Tuff",
+
+
+  "creativetab.simplest_compression_tab": "Simplest Compression"
+}

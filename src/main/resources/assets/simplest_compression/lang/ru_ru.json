@@ -1,0 +1,20 @@
+{
+  "block.simplest_compression.compressed_cobblestone": "Сжатый булыжник",
+  "block.simplest_compression.compressed_blackstone": "Сжатый чернит",
+  "block.simplest_compression.compressed_cobbled_deepslate": "Сжатый колотый глубинный сланец",
+  "block.simplest_compression.compressed_basalt": "Сжатый базальт",
+  "block.simplest_compression.compressed_calcite": "Сжатый кальцит",
+  "block.simplest_compression.compressed_clay": "Сжатая глина",
+  "block.simplest_compression.compressed_diorite": "Сжатый диорит",
+  "block.simplest_compression.compressed_dirt": "Сжатая земля",
+  "block.simplest_compression.compressed_dripstone_block": "Сжатый капельниковый блок",
+  "block.simplest_compression.compressed_end_stone": "Сжатый камень края",
+  "block.simplest_compression.compressed_granite": "Сжатый гранит",
+  "block.simplest_compression.compressed_gravel": "Сжатый гравий",
+  "block.simplest_compression.compressed_netherrack": "Сжатый незерак",
+  "block.simplest_compression.compressed_sand": "Сжатый песок",
+  "block.simplest_compression.compressed_tuff": "Сжатый туф",
+
+
+  "creativetab.simplest_compression_tab": "Simplest Compression"
+}
