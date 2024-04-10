@@ -54,18 +54,6 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 .add(
                         ModBlocks.Compressed_Cobblestone.get(),
                         ModBlocks.Compressed_Blackstone.get(),
-                        ModBlocks.Compressed_Basalt.get(),
-                        ModBlocks.Compressed_Calcite.get(),
-                        ModBlocks.Compressed_Clay.get(),
-                        ModBlocks.Compressed_Diorite.get(),
-                        ModBlocks.Compressed_Dirt.get(),
-                        ModBlocks.Compressed_Dripstone_Block.get(),
-                        ModBlocks.Compressed_End_Stone.get(),
-                        ModBlocks.Compressed_Granite.get(),
-                        ModBlocks.Compressed_Gravel.get(),
-                        ModBlocks.Compressed_Netherrack.get(),
-                        ModBlocks.Compressed_Sand.get(),
-                        ModBlocks.Compressed_Tuff.get(),
                         ModBlocks.Compressed_Cobbled_Deepslate.get());
     }
 

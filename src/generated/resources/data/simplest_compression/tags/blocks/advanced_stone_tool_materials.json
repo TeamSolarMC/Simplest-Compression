@@ -2,18 +2,6 @@
   "values": [
     "simplest_compression:compressed_cobblestone",
     "simplest_compression:compressed_blackstone",
-    "simplest_compression:compressed_basalt",
-    "simplest_compression:compressed_calcite",
-    "simplest_compression:compressed_clay",
-    "simplest_compression:compressed_diorite",
-    "simplest_compression:compressed_dirt",
-    "simplest_compression:compressed_dripstone_block",
-    "simplest_compression:compressed_end_stone",
-    "simplest_compression:compressed_granite",
-    "simplest_compression:compressed_gravel",
-    "simplest_compression:compressed_netherrack",
-    "simplest_compression:compressed_sand",
-    "simplest_compression:compressed_tuff",
     "simplest_compression:compressed_cobbled_deepslate"
   ]
 }

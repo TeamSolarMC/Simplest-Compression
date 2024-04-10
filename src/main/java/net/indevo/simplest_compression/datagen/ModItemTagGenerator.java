@@ -24,18 +24,6 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(
                         ModBlocks.Compressed_Cobblestone.get().asItem(),
                         ModBlocks.Compressed_Blackstone.get().asItem(),
-                        ModBlocks.Compressed_Basalt.get().asItem(),
-                        ModBlocks.Compressed_Calcite.get().asItem(),
-                        ModBlocks.Compressed_Clay.get().asItem(),
-                        ModBlocks.Compressed_Diorite.get().asItem(),
-                        ModBlocks.Compressed_Dirt.get().asItem(),
-                        ModBlocks.Compressed_Dripstone_Block.get().asItem(),
-                        ModBlocks.Compressed_End_Stone.get().asItem(),
-                        ModBlocks.Compressed_Granite.get().asItem(),
-                        ModBlocks.Compressed_Gravel.get().asItem(),
-                        ModBlocks.Compressed_Netherrack.get().asItem(),
-                        ModBlocks.Compressed_Sand.get().asItem(),
-                        ModBlocks.Compressed_Tuff.get().asItem(),
                         ModBlocks.Compressed_Cobbled_Deepslate.get().asItem());
     }
 
