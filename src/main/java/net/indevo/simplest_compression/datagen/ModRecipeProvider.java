@@ -3,11 +3,9 @@ package net.indevo.simplest_compression.datagen;
 import net.indevo.simplest_compression.block.ModBlocks;
 import net.minecraft.advancements.critereon.ItemPredicate;
 import net.minecraft.data.PackOutput;
-import net.minecraft.data.recipes.FinishedRecipe;
-import net.minecraft.data.recipes.RecipeCategory;
-import net.minecraft.data.recipes.RecipeProvider;
-import net.minecraft.data.recipes.ShapedRecipeBuilder;
+import net.minecraft.data.recipes.*;
 import net.minecraft.world.item.Items;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.crafting.conditions.IConditionBuilder;
 
 import java.util.function.Consumer;
@@ -155,6 +153,98 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .define('A', Items.TUFF)
                 .unlockedBy("has_tuff", inventoryTrigger(ItemPredicate.Builder.item()
                         .of(Items.TUFF).build()))
+                .save(p_251297_);
+
+        //COMPRESSED FROM BLOCKS
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.BASALT, 9)
+                .requires(ModBlocks.Compressed_Basalt.get())
+                .unlockedBy("has_compressed_basalt", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Basalt.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.BLACKSTONE, 9)
+                .requires(ModBlocks.Compressed_Blackstone.get())
+                .unlockedBy("has_compressed_blackstone", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Blackstone.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.CALCITE, 9)
+                .requires(ModBlocks.Compressed_Calcite.get())
+                .unlockedBy("has_compressed_calcite", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Calcite.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.CLAY, 9)
+                .requires(ModBlocks.Compressed_Clay.get())
+                .unlockedBy("has_compressed_clay", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Clay.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.COBBLED_DEEPSLATE, 9)
+                .requires(ModBlocks.Compressed_Cobbled_Deepslate.get())
+                .unlockedBy("has_compressed_cobbled_deepslate", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Cobbled_Deepslate.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.COBBLESTONE, 9)
+                .requires(ModBlocks.Compressed_Cobblestone.get())
+                .unlockedBy("has_compressed_cobblestone", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Cobblestone.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.DIORITE, 9)
+                .requires(ModBlocks.Compressed_Diorite.get())
+                .unlockedBy("has_compressed_diorite", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Diorite.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.DIRT, 9)
+                .requires(ModBlocks.Compressed_Dirt.get())
+                .unlockedBy("has_compressed_dirt", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Dirt.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.DRIPSTONE_BLOCK, 9)
+                .requires(ModBlocks.Compressed_Dripstone_Block.get())
+                .unlockedBy("has_compressed_dripstone_block", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Dripstone_Block.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.END_STONE, 9)
+                .requires(ModBlocks.Compressed_End_Stone.get())
+                .unlockedBy("has_compressed_end_stone", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_End_Stone.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.GRANITE, 9)
+                .requires(ModBlocks.Compressed_Granite.get())
+                .unlockedBy("has_compressed_granite", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Granite.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.GRAVEL, 9)
+                .requires(ModBlocks.Compressed_Gravel.get())
+                .unlockedBy("has_compressed_gravel", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Gravel.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.NETHERRACK, 9)
+                .requires(ModBlocks.Compressed_Netherrack.get())
+                .unlockedBy("has_compressed_netherrack", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Netherrack.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.SAND, 9)
+                .requires(ModBlocks.Compressed_Sand.get())
+                .unlockedBy("has_compressed_sand", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Sand.get()).build()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, Blocks.TUFF, 9)
+                .requires(ModBlocks.Compressed_Tuff.get())
+                .unlockedBy("has_compressed_tuff", inventoryTrigger(ItemPredicate.Builder.item()
+                        .of(ModBlocks.Compressed_Tuff.get()).build()))
                 .save(p_251297_);
     }
 }
