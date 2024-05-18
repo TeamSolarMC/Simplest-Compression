@@ -10,7 +10,7 @@ license="MIT"
 
 modId="simplest_compression"
 
-version="1.0.1"
+version="1.0.2"
 
 displayName="Simplest Compression"
 
@@ -18,7 +18,7 @@ authors="IndEvo Studio" #optional
 
 
 
-description='''A mod adding new compressed version of blocks.'''
+description='''Compressed versions of vanilla blocks.'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.simplest_compression]] #optional
 # the modid of the dependency
