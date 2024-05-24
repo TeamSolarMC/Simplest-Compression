@@ -15,6 +15,23 @@
   "block.simplest_compression.compressed_sand": "Сжатый песок",
   "block.simplest_compression.compressed_tuff": "Сжатый туф",
 
+  "block.simplest_compression.compressed_andesite": "Сжатый андезит",
+  "block.simplest_compression.compressed_sandstone": "Сжатый песчаник",
+  "block.simplest_compression.compressed_red_sand": "Сжатый красный песок",
+  "block.simplest_compression.compressed_red_sandstone": "Сжатый красный песчаник",
+  "block.simplest_compression.compressed_deepslate": "Сжатый глубинный сланец",
+  "block.simplest_compression.compressed_soul_sand": "Сжатый песок душ",
+  "block.simplest_compression.compressed_soul_soil": "Сжатая почва душ",
+  "block.simplest_compression.compressed_prismarine": "Сжатый призмарин",
+  "block.simplest_compression.compressed_snow_block": "Сжатый блок снега",
+  "block.simplest_compression.compressed_stone": "Сжатый камень",
+  "block.simplest_compression.compressed_smooth_basalt": "Сжатый гладкий базальт",
+  "block.simplest_compression.compressed_magma_block": "Сжатая магма",
+  "block.simplest_compression.compressed_obsidian": "Сжатый обсидиан",
+  "block.simplest_compression.compressed_mud": "Сжатая грязь",
+  "block.simplest_compression.compressed_packed_mud": "Сжатая плотная грязь",
+  "block.simplest_compression.compressed_moss_block": "Сжатый блок мха",
+
 
   "creativetab.simplest_compression_tab": "Simplest Compression"
 }

@@ -31,6 +31,22 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.Compressed_Netherrack);
         blockWithItem(ModBlocks.Compressed_Sand);
         blockWithItem(ModBlocks.Compressed_Tuff);
+        blockWithItem(ModBlocks.Compressed_Andesite);
+        blockWithItem(ModBlocks.Compressed_Sandstone);
+        blockWithItem(ModBlocks.Compressed_Red_Sand);
+        blockWithItem(ModBlocks.Compressed_Red_Sandstone);
+        blockWithItem(ModBlocks.Compressed_Deepslate);
+        blockWithItem(ModBlocks.Compressed_Soul_Sand);
+        blockWithItem(ModBlocks.Compressed_Soul_Soil);
+        blockWithItem(ModBlocks.Compressed_Prismarine);
+        blockWithItem(ModBlocks.Compressed_Snow_Block);
+        blockWithItem(ModBlocks.Compressed_Stone);
+        blockWithItem(ModBlocks.Compressed_Smooth_Basalt);
+        blockWithItem(ModBlocks.Compressed_Magma_Block);
+        blockWithItem(ModBlocks.Compressed_Obsidian);
+        blockWithItem(ModBlocks.Compressed_Mud);
+        blockWithItem(ModBlocks.Compressed_Packed_Mud);
+        blockWithItem(ModBlocks.Compressed_Moss_Block);
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

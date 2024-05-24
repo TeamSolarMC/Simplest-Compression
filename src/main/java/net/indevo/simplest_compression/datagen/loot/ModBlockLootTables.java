@@ -30,6 +30,22 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.Compressed_Netherrack.get());
         this.dropSelf(ModBlocks.Compressed_Sand.get());
         this.dropSelf(ModBlocks.Compressed_Tuff.get());
+        this.dropSelf(ModBlocks.Compressed_Andesite.get());
+        this.dropSelf(ModBlocks.Compressed_Sandstone.get());
+        this.dropSelf(ModBlocks.Compressed_Red_Sand.get());
+        this.dropSelf(ModBlocks.Compressed_Red_Sandstone.get());
+        this.dropSelf(ModBlocks.Compressed_Deepslate.get());
+        this.dropSelf(ModBlocks.Compressed_Soul_Sand.get());
+        this.dropSelf(ModBlocks.Compressed_Soul_Soil.get());
+        this.dropSelf(ModBlocks.Compressed_Prismarine.get());
+        this.dropSelf(ModBlocks.Compressed_Snow_Block.get());
+        this.dropSelf(ModBlocks.Compressed_Stone.get());
+        this.dropSelf(ModBlocks.Compressed_Smooth_Basalt.get());
+        this.dropSelf(ModBlocks.Compressed_Magma_Block.get());
+        this.dropSelf(ModBlocks.Compressed_Obsidian.get());
+        this.dropSelf(ModBlocks.Compressed_Mud.get());
+        this.dropSelf(ModBlocks.Compressed_Packed_Mud.get());
+        this.dropSelf(ModBlocks.Compressed_Moss_Block.get());
     }
 
     @Override

@@ -33,6 +33,22 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.Compressed_Netherrack.get());
                         pOutput.accept(ModBlocks.Compressed_Sand.get());
                         pOutput.accept(ModBlocks.Compressed_Tuff.get());
+                        pOutput.accept(ModBlocks.Compressed_Andesite.get());
+                        pOutput.accept(ModBlocks.Compressed_Sandstone.get());
+                        pOutput.accept(ModBlocks.Compressed_Red_Sandstone.get());
+                        pOutput.accept(ModBlocks.Compressed_Red_Sand.get());
+                        pOutput.accept(ModBlocks.Compressed_Deepslate.get());
+                        pOutput.accept(ModBlocks.Compressed_Soul_Sand.get());
+                        pOutput.accept(ModBlocks.Compressed_Soul_Soil.get());
+                        pOutput.accept(ModBlocks.Compressed_Prismarine.get());
+                        pOutput.accept(ModBlocks.Compressed_Snow_Block.get());
+                        pOutput.accept(ModBlocks.Compressed_Stone.get());
+                        pOutput.accept(ModBlocks.Compressed_Smooth_Basalt.get());
+                        pOutput.accept(ModBlocks.Compressed_Magma_Block.get());
+                        pOutput.accept(ModBlocks.Compressed_Obsidian.get());
+                        pOutput.accept(ModBlocks.Compressed_Mud.get());
+                        pOutput.accept(ModBlocks.Compressed_Packed_Mud.get());
+                        pOutput.accept(ModBlocks.Compressed_Moss_Block.get());
                     }))
                     .build());
 

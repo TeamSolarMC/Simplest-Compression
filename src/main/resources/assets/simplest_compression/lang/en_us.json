@@ -16,6 +16,23 @@
   "block.simplest_compression.compressed_tuff": "Compressed Tuff",
   "tag.simplest_compression.advanced_stone_tool_materials": "Advanced Stone Tool Materials",
 
+  "block.simplest_compression.compressed_andesite": "Compressed Andesite",
+  "block.simplest_compression.compressed_sandstone": "Compressed Sandstone",
+  "block.simplest_compression.compressed_red_sand": "Compressed Red Sand",
+  "block.simplest_compression.compressed_red_sandstone": "Compressed Red Sandstone",
+  "block.simplest_compression.compressed_deepslate": "Compressed Deepslate",
+  "block.simplest_compression.compressed_soul_sand": "Compressed Soul Sand",
+  "block.simplest_compression.compressed_soul_soil": "Compressed Soul Soil",
+  "block.simplest_compression.compressed_prismarine": "Compressed Prismarine",
+  "block.simplest_compression.compressed_snow_block": "Compressed Snow Block",
+  "block.simplest_compression.compressed_stone": "Compressed Stone",
+  "block.simplest_compression.compressed_smooth_basalt": "Compressed Smooth Basalt",
+  "block.simplest_compression.compressed_magma_block": "Compressed Magma Block",
+  "block.simplest_compression.compressed_obsidian": "Compressed Obsidian",
+  "block.simplest_compression.compressed_mud": "Compressed Mud",
+  "block.simplest_compression.compressed_packed_mud": "Compressed Packed Mud",
+  "block.simplest_compression.compressed_moss_block": "Compressed Moss Block",
+
 
   "creativetab.simplest_compression_tab": "Simplest Compression"
 }

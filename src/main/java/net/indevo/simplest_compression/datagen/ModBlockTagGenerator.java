@@ -34,21 +34,40 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                         ModBlocks.Compressed_Blackstone.get(),
                         ModBlocks.Compressed_Basalt.get(),
                         ModBlocks.Compressed_Calcite.get(),
-                        ModBlocks.Compressed_Clay.get(),
                         ModBlocks.Compressed_Diorite.get(),
-                        ModBlocks.Compressed_Dirt.get(),
                         ModBlocks.Compressed_Dripstone_Block.get(),
                         ModBlocks.Compressed_End_Stone.get(),
                         ModBlocks.Compressed_Granite.get(),
                         ModBlocks.Compressed_Netherrack.get(),
-                        ModBlocks.Compressed_Sand.get(),
                         ModBlocks.Compressed_Tuff.get(),
+                        ModBlocks.Compressed_Andesite.get(),
+                        ModBlocks.Compressed_Sandstone.get(),
+                        ModBlocks.Compressed_Red_Sandstone.get(),
+                        ModBlocks.Compressed_Deepslate.get(),
+                        ModBlocks.Compressed_Prismarine.get(),
+                        ModBlocks.Compressed_Stone.get(),
+                        ModBlocks.Compressed_Smooth_Basalt.get(),
+                        ModBlocks.Compressed_Magma_Block.get(),
+                        ModBlocks.Compressed_Obsidian.get(),
                         ModBlocks.Compressed_Cobbled_Deepslate.get());
+
 
         this.tag(BlockTags.MINEABLE_WITH_SHOVEL)
                 .add(
                         ModBlocks.Compressed_Gravel.get(),
+                        ModBlocks.Compressed_Soul_Sand.get(),
+                        ModBlocks.Compressed_Soul_Soil.get(),
+                        ModBlocks.Compressed_Snow_Block.get(),
+                        ModBlocks.Compressed_Clay.get(),
+                        ModBlocks.Compressed_Dirt.get(),
+                        ModBlocks.Compressed_Red_Sand.get(),
+                        ModBlocks.Compressed_Mud.get(),
+                        ModBlocks.Compressed_Sand.get(),
                         ModBlocks.Compressed_Sand.get());
+
+        this.tag(BlockTags.MINEABLE_WITH_HOE)
+                .add(
+                        ModBlocks.Compressed_Moss_Block.get());
 
         this.tag(ModTags.Blocks.ADVANCED_STONE_TOOL_MATERIALS)
                 .add(

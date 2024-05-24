@@ -1,4 +1,5 @@
-// 1.20.1	2024-04-10T19:20:50.4570365	Block Tags
-cc59fe1d46f76b20a0a8723e48213b06c34abe35 data/minecraft/tags/blocks/mineable/pickaxe.json
-7d3ac75780417893a4b22eee9c538dd1fd27e28c data/minecraft/tags/blocks/mineable/shovel.json
+// 1.20.1	2024-05-24T20:09:20.4918348	Block Tags
+3d82a4103a82073dd473f07bc7e25e1769f0577e data/minecraft/tags/blocks/mineable/hoe.json
+7468052cd766b523dcbbbea8212a554c7be2b7d2 data/minecraft/tags/blocks/mineable/pickaxe.json
+f51ee3c04907d6536385371c10782e16d576e779 data/minecraft/tags/blocks/mineable/shovel.json
 84e383390c13ea87e5fe8b69d6ed16b810442523 data/simplest_compression/tags/blocks/advanced_stone_tool_materials.json
